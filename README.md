@@ -1,4 +1,5 @@
-# CNN-based-stress-prediction-of-a-physical-body
+# CNN-based-physical-body-stress-prediction
+
 COMSOL Multiphysics was used to create the strain-stress model. These photos are then fed into a supervised CNN-based deep learning system. Following that, various strain images were fed to generate stress images, from which the Young's modulus was calculated.
 
 >>Strain prediction from the model:
